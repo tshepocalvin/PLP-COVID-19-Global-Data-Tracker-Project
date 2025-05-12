@@ -36,7 +36,7 @@ This project explores COVID-19 data using Python and Pandas. It includes data cl
 
 └── README.md
 
-#💡 Insights
+# 💡 Insights
 
 - South Africa saw a steady rise in cases and deaths, with over 100k deaths by late 2023.
 
