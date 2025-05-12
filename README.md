@@ -36,6 +36,16 @@ This project explores COVID-19 data using Python and Pandas. It includes data cl
 
 └── README.md
 
+#💡 Insights
+
+- South Africa saw a steady rise in cases and deaths, with over 100k deaths by late 2023.
+
+- Vaccination rollout ramped up significantly in mid-2021.
+
+- Botswana's case curve and daily new cases closely followed South Africa’s trends.
+
+- The top 5 countries by total cases are consistent with global population sizes and early outbreaks.
+
 
 - Email: tshepomogorosi141@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tshepo-mogorosi/
