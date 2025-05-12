@@ -27,6 +27,7 @@ This project explores COVID-19 data using Python and Pandas. It includes data cl
 # 📁 Folder Structure
 
 ├── owid-covid-data.csv           # Source dataset from Our World in Data
+├── COVID-19_Assignment.py
 
 ├── covid_analysis.ipynb          # Main Jupyter Notebook
 
