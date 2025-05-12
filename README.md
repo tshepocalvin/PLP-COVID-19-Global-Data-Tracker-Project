@@ -24,6 +24,22 @@ This project explores COVID-19 data using Python and Pandas. It includes data cl
 
 - Jupyter Notebook
 
+# ▶️ How to Use
+
+1. Clone the repository:
+
+   git clone https://github.com/your-username/covid19-analysis.git
+   cd covid19-analysis
+2. Launch Jupyter Notebook
+
+3. Open covid_analysis.ipynb
+
+   Run the cells step-by-step to clean data, visualize trends, and review insights.
+
+4. (If VS Code is Available)
+   Open covid_analysis.ipynb with VS Code
+
+
 # 📁 Folder Structure
 
 ├── owid-covid-data.csv           # Source dataset from Our World in Data
